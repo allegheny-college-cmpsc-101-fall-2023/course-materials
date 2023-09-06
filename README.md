@@ -13,10 +13,7 @@
 - Thursday: 2:00 PM-3:30 PM, Alden Hall, 15 minute time slots
 
 
-???+ note "Scheduling Office Hours"
-
-      To schedule a meeting with the course instructor during office hours, please 
-      visit the [Google Calendar for Office Hours](https://calendar.app.google/4ekYyCcKqGanEBqC8) to schedule an appointment(s) as needed.
+To schedule a meeting with the course instructor during office hours, please visit the [Google Calendar for Office Hours](https://calendar.app.google/4ekYyCcKqGanEBqC8) to schedule an appointment(s) as needed.
 
 ### Course Meeting Schedule
 
@@ -39,25 +36,24 @@ presentations.
 - Prerequisite: CMPSC 100 or permission of the instructor.
 - Distribution Requirements: QR, SP.
 
-???+ note "What do these distribution requirements mean?"
+#### Further Descriptions
 
-      **Quantitative Reasoning (QR)**: Quantitative Reasoning is the ability to understand, investigate, communicate, and contextualize numerical, symbolic, and graphical information towards the exploration of natural, physical, behavioral, or social phenomena.
+**Quantitative Reasoning (QR)**: Quantitative Reasoning is the ability to understand, investigate, communicate, and contextualize numerical, symbolic, and graphical information towards the exploration of natural, physical, behavioral, or social phenomena.
 
-      *Learning Outcome*: Students who successfully complete this requirement will demonstrate an understanding of how to interpret numeric data and/or their graphical or symbolic representations.
+*Learning Outcome*: Students who successfully complete this requirement will demonstrate an understanding of how to interpret numeric data and/or their graphical or symbolic representations.
 
-      **Scientific Process and Knowledge (SP)**: Courses involving Scientific Process and Knowledge aim to convey an understanding of what is known or can be known about the natural world; apply scientific reasoning towards the analysis and synthesis of scientific information; and create scientifically literate citizens who can engage productively in problem solving.
+**Scientific Process and Knowledge (SP)**: Courses involving Scientific Process and Knowledge aim to convey an understanding of what is known or can be known about the natural world; apply scientific reasoning towards the analysis and synthesis of scientific information; and create scientifically literate citizens who can engage productively in problem solving.
 
-      *Learning Outcome*: Students who successfully complete this requirement will demonstrate an understanding of the nature, approaches, and domain of scientific inquiry.
+*Learning Outcome*: Students who successfully complete this requirement will demonstrate an understanding of the nature, approaches, and domain of scientific inquiry.
 
 
 ### Course Learning Objectives
 
-|----------| 
-|Correctly use, implement, and describe data structures and algorithms in python.|
-|Analyze, empirically evaluate, and describe algorithmic complexity.|
-|Write python source code and documentation conforming to industry-standard formats and styles.|
-|Develop and trouble-shoot with industry standard development environments, test suites, version control, and workflow tools.|
-|Communicate clearly about programming, python, and software development issues with Discord and problem solve effectively.|
+1. Correctly use, implement, and describe data structures and algorithms in python.
+2. Analyze, empirically evaluate, and describe algorithmic complexity.
+3. Write python source code and documentation conforming to industry-standard formats and styles.
+4. Develop and trouble-shoot with industry standard development environments, test suites, version control, and workflow tools.
+5. Communicate clearly about programming, python, and software development issues with Discord and problem solve effectively.
 
 
 
@@ -72,7 +68,7 @@ presentations.
 Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-third-edition)
 by [John V. Guttag](https://people.csail.mit.edu/guttag/)
 
-![Book Cover](https://mit-press-us.imgix.net/covers/9780262542364.jpg?auto=format&w=298&dpr=2&q=20){width=30%}
+![Book Cover](https://mit-press-us.imgix.net/covers/9780262542364.jpg?auto=format&w=298&dpr=2&q=20 | width=30%)
 
 To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny), click on the "Let's get started" button, and enter Fall 2023, Computer Science, CMPSC 101.
 
