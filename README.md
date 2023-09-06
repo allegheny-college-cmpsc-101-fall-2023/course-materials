@@ -68,7 +68,7 @@ presentations.
 Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-third-edition)
 by [John V. Guttag](https://people.csail.mit.edu/guttag/)
 
-![Book Cover](https://mit-press-us.imgix.net/covers/9780262542364.jpg?auto=format&w=298&dpr=2&q=20 | width=30%)
+![Book Cover](https://mit-press-us.imgix.net/covers/9780262542364.jpg?auto=format&w=298&dpr=2&q=20)
 
 To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny), click on the "Let's get started" button, and enter Fall 2023, Computer Science, CMPSC 101.
 
