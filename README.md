@@ -85,7 +85,7 @@ To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny
         - [Python Foundations](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#python-foundations)
         - [Numerical Computation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#numerical-computation)
         - [Function Scope](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#function-scope)
-- **Week Six**: October 2 to October 6: [Structured Types](../schedule-data-abstraction#structured-types)
+- **Week Six**: October 2 to October 6: [Structured Types](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#structured-types)
 - **Monday October 9**: Fall Break
 - **Week Seven**: October 11 to October 13: [Program Components](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#program-components)
 - **Week Eight**: October 16 to October 20: [Software Testing](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-testing)
