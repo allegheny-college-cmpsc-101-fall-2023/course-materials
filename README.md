@@ -1,6 +1,11 @@
 # Course Syllabus, CMPSC 101.00 Data Structures
 
-### Course Instructor
+## Course Meeting Schedule
+
+- Class Sessions: MWF 10 AM-10:50 AM, Alden 109
+- Laboratory Session: Friday, 2:30 PM-4:20 PM, Alden 109
+
+## Instructor Information
 
 - Name: Professor Emily Graber
 - Office Location: Alden Hall 106
@@ -13,14 +18,9 @@
 - Thursday: 2:00 PM-3:30 PM, Alden Hall, 15 minute time slots
 
 
-To schedule a meeting with the course instructor during office hours, please visit the [Google Calendar for Office Hours](https://calendar.app.google/4ekYyCcKqGanEBqC8) to schedule an appointment(s) as needed.
+To meet with the course instructor during office hours, please visit the [Google Calendar for Office Hours](https://calendar.app.google/4ekYyCcKqGanEBqC8) to reserve an appointment(s) as needed.
 
-### Course Meeting Schedule
-
-- Class Sessions: MWF 10 AM-10:50 AM, Alden 109
-- Laboratory Session: Friday, 2:30 PM-4:20 PM, Alden 109
-
-### Course Description
+## Course Description
 
 A continuation of CMPSC 100 with an emphasis on implementing, using, and
 evaluating the computational structures needed to efficiently store and retrieve
@@ -36,7 +36,15 @@ presentations.
 - Prerequisite: CMPSC 100 or permission of the instructor.
 - Distribution Requirements: QR, SP.
 
-#### Further Descriptions
+## Course Learning Objectives
+
+1. Correctly use, implement, and describe data structures and algorithms in a Python programming language.
+2. Analyze, empirically evaluate, and describe algorithmic complexity of computer programs.
+3. Write Python source code and documentation conforming to industry-standard formats and styles.
+4. Develop and trouble-shoot with industry standard development environments, test suites, version control, and workflow tools.
+5. Communicate clearly about programming, Python, and software development issues and problem solve effectively.
+
+### Further Objectives
 
 **Quantitative Reasoning (QR)**: Quantitative Reasoning is the ability to understand, investigate, communicate, and contextualize numerical, symbolic, and graphical information towards the exploration of natural, physical, behavioral, or social phenomena.
 
@@ -47,20 +55,7 @@ presentations.
 *Learning Outcome*: Students who successfully complete this requirement will demonstrate an understanding of the nature, approaches, and domain of scientific inquiry.
 
 
-### Course Learning Objectives
-
-1. Correctly use, implement, and describe data structures and algorithms in python.
-2. Analyze, empirically evaluate, and describe algorithmic complexity.
-3. Write python source code and documentation conforming to industry-standard formats and styles.
-4. Develop and trouble-shoot with industry standard development environments, test suites, version control, and workflow tools.
-5. Communicate clearly about programming, python, and software development issues with Discord and problem solve effectively.
-
-
-
-### Reference Links
-
-- [Proactive Programmers](www.proactiveprogrammers.com)
-- [Python Docs](https://docs.python.org/3/)
+## Required Materials
 
 ### Required Textbook
 
@@ -68,11 +63,30 @@ presentations.
 Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-third-edition)
 by [John V. Guttag](https://people.csail.mit.edu/guttag/)
 
-![Book Cover](https://mit-press-us.imgix.net/covers/9780262542364.jpg?auto=format&w=298&dpr=2&q=20)
+<img src="https://mit-press-us.imgix.net/covers/9780262542364.jpg?auto=format&w=298&dpr=2&q=20" width="20%"><break>
 
 To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny), click on the "Let's get started" button, and enter Fall 2023, Computer Science, CMPSC 101.
 
-### Schedule At-A-Glance
+### Required Software and Accounts
+
+- Visual Studio Code
+- Python 3
+- Poetry
+- Gatorgrade
+- Git
+- Free GitHub Account
+- Free Discord Account
+- Google Account
+
+
+## Online Resources and Course Materials
+
+- [Proactive Programmers](www.proactiveprogrammers.com)
+- [Python Docs](https://docs.python.org/3/)
+- [Course GitHub Organization](https://github.com/allegheny-college-cmpsc-101-fall-2023)
+- [Course Materials Repository](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials)
+
+## Schedule At-A-Glance
 
 - **Week One**: August 29 to September 1: [Software Operation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-operation)
 - **Week Two**: September 4 to September 8: [Python Foundations](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#python-foundations)
@@ -106,9 +120,9 @@ To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny
 - **Final Examination**: *Examination Code*: G, *Date*: Monday, December 18th, 2023 at 09:00 AM. [Complete Final Exam Schedule](https://sites.allegheny.edu/registrar/fall-2023-final-exam-schedule/)
     - Comprehensively covers all course modules
 
-### Course Policies
+## Course Policies
 
-#### Grading
+### Grading
 
 The grade that a student receives in this class will be based on the following
 categories. All of these percentages are approximate and, if the need to do so
@@ -134,8 +148,8 @@ These grading categories have the following definitions:
     absent or late in an unexcused fashion. Students who need to miss class or
     attend class late for an excused reason should communicate their situation
     to the course instructor as soon as possible. The content that a student
-    commits to their GitHub repositories during the weeks devoted to proactive
-    review are also a component of a student's grade for class participation.
+    commits to their GitHub repositories during the weeks devoted to Proactive
+    Review are also a component of a student's grade for class participation.
 
 -   **Midterm Examinations**: The midterms are online cumulative assessments
     covering all prior material from the class, programming, and laboratory
@@ -160,29 +174,29 @@ These grading categories have the following definitions:
     in-person classroom sessions, source code surveys have the following goals:
     (i) help a learner to demonstrate that they can remember learned material
     by recalling facts, basic concepts, and answers to questions presented in
-    the textbook and on the course web site and (ii) allow a learner to
+    the textbook and in course materials and (ii) allow a learner to
     demonstrate an understanding of facts and ideas by translating,
     interpreting, and stating the main technical ideas presented through the
-    textbook and course web site.
+    textbook and course materials.
 
 -   **Programming Projects**: Graded on a checkmark basis and building on
     material available in the textbook and the content covered during that
     week's in-person classroom session, the programming projects further equip a
-    learner to solve new problems in the field of data abstraction by applying
-    &mdash; in a new way &mdash; their knowledge of the facts and techniques of
-    data abstraction and rigorous Python programming.
+    learner to solve new problems in the field of computer science by applying
+    &mdash; in a new way &mdash; their knowledge of the facts and techniques related to 
+    data structures and rigorous Python programming.
 
 -   **Engineering Efforts**: These assignments invite students to explore
     different techniques for rigorously designing, implementing, evaluating, and
     documenting real-world Python programs. These assignments also encourage
-    students to use tools like a text editor, a terminal window, and a modern
+    students to use tools like a terminal window and a modern
     Python development environment to implement functions that strike the right
     balance between understandability, generalizability, and specialization.
     Students will also use the data collected from running experiments to
     evaluate the implementation of a Python function as they consider trade-offs
     between, for instance, its efficiency, flexibility, and correctness.
 
-#### Assignment Submission
+### Assignment Submission
 
 All assignments will have a stated due date shared through GitHub, GitHub
 Classroom, and Discord. Electronic versions of the engineering efforts,
@@ -192,7 +206,7 @@ credit will be awarded for any course work that you submit to the incorrect
 GitHub repository. Unless special arrangements are made with the instructor, no
 work will be accepted after the published assignment deadline.
 
-#### Assignment Evaluation
+### Assignment Evaluation
 
 Using a report that the instructor shares with you through your assignment's
 GitHub repository, you will privately receive a grade for and feedback on each
@@ -201,7 +215,7 @@ correct work that fulfills the project's specification and submitted it by the
 deadline. For more details about the evaluation of course assignments, see this page 
 about [proactive learning](https://proactiveprogrammers.com/proactive-learning/introduction-proactive-learning/).
 
-#### Course Attendance
+### Course Attendance
 
 It is mandatory for all students to attend the course sessions. If, due to
 extenuating circumstances, you will not be able to attend a session, then,
@@ -209,7 +223,7 @@ whenever possible, please communicate with the instructor at least one week in
 advance to describe your situation. Students who have any signs of illness
 should not attend any in-person course sessions.
 
-#### Class Preparation
+### Class Preparation
 
 In order to maximize learning, students must invest time
 to prepare for the class discussions, laboratory, and programming sessions.
@@ -222,7 +236,7 @@ During the class sessions students will also be required to download, use,
 and modify Python software components and data sets that are made available through
 means such as the Proactive Programmers web site or a GitHub repository.
 
-#### Using GitHub and Discord
+### Using GitHub and Discord
 
 This course will primarily use GitHub and Discord for all course communication,
 as summarized in the list of [community
@@ -237,7 +251,7 @@ the main forum for discussing technical content in data abstraction. The
 Server](https://discord.gg/CS2h9kXzX6) will be the main forum for Department
 of Computer Science announcements.
 
-#### Using Email
+### Using Email
 
 Although we will primarily use Discord for class communication, the course
 instructor will sometimes use email to send announcements about important
@@ -247,7 +261,7 @@ emails. This class policy is based on the statement about the use of email that
 appears in *The Compass*, the College's student handbook; please see the
 instructor if you do not have this handbook.
 
-#### Honor Code
+### Honor Code
 
 The Academic Honor Program that governs the entire academic program at
 Allegheny College is described in the Allegheny Academic Bulletin. The Honor
@@ -262,11 +276,11 @@ Honor Code pledge:
 > defined in the Honor Code, and to maintain the integrity of both
 > myself and the College community as a whole.
 
-#### Effective Collaboration
+### Effective Collaboration
 
 Computer science is an inherently collaborative discipline. People must work
 together to produce large, complex, and ultimately useful software systems.
-Because of this, the Department of Computer Science at Allegheny College
+Because of this, the Department of Computer and Information Science at Allegheny College
 encourages students to engage in collaboration. However, in the context of
 individual coursework, through which each student must demonstrate their own
 knowledge, there are certain forms of collaboration that are and are not
@@ -305,7 +319,7 @@ instructor or a technical leader. If a student submits deliverables (e.g.,
 source code or technical writing) that are nearly identical to the work of
 others, this will be taken as evidence of violating the Honor Code.
 
-#### Seeking Assistance
+### Seeking Assistance
 
 Students who are struggling to understand the knowledge and skills developed in
 either a class, laboratory, or programming session are encouraged to seek
@@ -323,14 +337,14 @@ to adhere to the given instructions specifying what is or is not considered auth
 assistance for the particular exam or item of coursework. It is the responsibility of the student to 
 review the authorization specifications on every item and act appropriately, 
 upholding the honor code.  Unauthorized assistance may or may not preclude 1. internet use, 
-including but not limited to online large language models; 2. offline artificial intelligence 
+including but not limited to online large language models (e.g. ChatGTP); 2. offline artificial intelligence 
 tools; 3. textbooks; 4. other specifically named materials or sources. Students are 
 reminded to review Honor Code Article III Section 1, requiring students who know that 
 an honor code violation has occurred to report the violation. Moreover, "Failure to do 
 so is as injurious to the honor of the College community as is the observed act of 
 dishonesty and constitutes an infraction of the Honor Code."
 
-#### Educational Accommodations
+### Educational Accommodations
 
 The Americans with Disabilities Act (ADA) is a federal anti-discrimination
 statute that provides comprehensive civil rights protection for persons with
