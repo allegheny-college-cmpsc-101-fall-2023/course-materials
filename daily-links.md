@@ -10,7 +10,8 @@
 
 # Week 3 - Numerical Computation
 
-- 11 Sept
+- 11 Sept:
+[GitHub course-materials Colab Template](https://colab.research.google.com/github/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Template_CMPSC101_F2023_0911_numerical_computation.ipynb)
 - 13 Sept
 - 15 Sept
 - 15 Sept
