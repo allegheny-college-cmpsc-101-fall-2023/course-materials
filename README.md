@@ -18,7 +18,9 @@
 - Thursday: 2:00 PM-3:30 PM, Alden Hall, 15 minute time slots
 
 
-To meet with the course instructor during office hours, please visit the [Google Calendar for Office Hours](https://calendar.app.google/4ekYyCcKqGanEBqC8) to reserve an appointment(s) as needed.
+To meet with the course instructor during office hours, please visit the
+[Google Calendar for Office Hours](https://calendar.app.google/MYV4AVsQG2fUM9Ja7)
+to reserve an appointment(s) as needed.
 
 ## Course Description
 
@@ -39,28 +41,35 @@ presentations.
 ## Course Learning Objectives
 
 1. Correctly use, implement, and describe data structures and algorithms in a Python programming language.
-2. Analyze, empirically evaluate, and describe algorithmic complexity of computer programs.
-3. Write Python source code and documentation conforming to industry-standard formats and styles.
-4. Develop and trouble-shoot with industry standard development environments, test suites, version control, and workflow tools.
-5. Communicate clearly about programming, Python, and software development issues and problem solve effectively.
+3. Analyze, empirically evaluate, and describe algorithmic complexity of computer programs.
+4. Write Python source code and documentation conforming to industry-standard formats and styles.
+5. Develop and trouble-shoot with industry standard development environments, test suites, version control, and workflow tools.
+6. Communicate clearly about programming, Python, and software development issues and problem solve effectively.
 
 ### Further Objectives
 
-**Quantitative Reasoning (QR)**: Quantitative Reasoning is the ability to understand, investigate, communicate, and contextualize numerical, symbolic, and graphical information towards the exploration of natural, physical, behavioral, or social phenomena.
+**Quantitative Reasoning (QR)**: Quantitative Reasoning is the ability to understand,
+investigate, communicate, and contextualize numerical, symbolic, and graphical information
+towards the exploration of natural, physical, behavioral, or social phenomena.
 
-*Learning Outcome*: Students who successfully complete this requirement will demonstrate an understanding of how to interpret numeric data and/or their graphical or symbolic representations.
+*Learning Outcome*: Students who successfully complete this requirement will demonstrate
+an understanding of how to interpret numeric data and/or their graphical or symbolic
+representations.
 
-**Scientific Process and Knowledge (SP)**: Courses involving Scientific Process and Knowledge aim to convey an understanding of what is known or can be known about the natural world; apply scientific reasoning towards the analysis and synthesis of scientific information; and create scientifically literate citizens who can engage productively in problem solving.
+**Scientific Process and Knowledge (SP)**: Courses involving Scientific Process and Knowledge
+aim to convey an understanding of what is known or can be known about the natural world;
+apply scientific reasoning towards the analysis and synthesis of scientific information; and
+create scientifically literate citizens who can engage productively in problem solving.
 
-*Learning Outcome*: Students who successfully complete this requirement will demonstrate an understanding of the nature, approaches, and domain of scientific inquiry.
+*Learning Outcome*: Students who successfully complete this requirement will demonstrate an
+understanding of the nature, approaches, and domain of scientific inquiry.
 
 
 ## Required Materials
 
 ### Required Textbook
 
-[Introduction to Computation and Programming Using
-Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-third-edition)
+[Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-third-edition)
 by [John V. Guttag](https://people.csail.mit.edu/guttag/)
 
 <img src="https://mit-press-us.imgix.net/covers/9780262542364.jpg?auto=format&w=298&dpr=2&q=20" width="20%"><break>
