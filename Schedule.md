@@ -12,5 +12,12 @@
 |-------|------------------|-----------------------------|----------------------|
 |11 Sept| Chapter 3        |[Colab Template](https://colab.research.google.com/github/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Template_CMPSC101_F2023_0911_numerical_computation.ipynb)||
 |13 Sept||[Colab Template](https://colab.research.google.com/github/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Template_CMPSC101_F2023_0913_numerical_computation.ipynb)||
-|15 Sept|[Engineering Effort Integer Square](https://classroom.github.com/a/9qdjSKDm) </br> Due 2:30pm EDT|||
+|15 Sept|[Engineering Effort Integer Square](https://classroom.github.com/a/9qdjSKDm) </br> Due 2:30pm EDT||[Source Code Survey Numerical Data](https://classroom.github.com/a/qMGUfpn4) </br> Due 2:30pm EDT, 22 Sept, 2023 </br> Engineering Effort Primality Testing </br> Due 2:30pm EDT, 22 Sept, 2023|
 
+# Week 4 - Function Scope
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|18 Sept| Chapter 4        |||
+|20 Sept||||
+|22 Sept|Engineering Effort Primality Testing </br> Due 2:30pm EDT </br> [Source Code Survey Numerical Data](https://classroom.github.com/a/qMGUfpn4) </br> Due 2:30pm EDT |||
