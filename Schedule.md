@@ -19,5 +19,5 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |18 Sept| Chapter 4        |[Colab Template](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Template_CMPSC101_F2023_0918_function_scope.ipynb)||
-|20 Sept|[Colab Template](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Template_CMPSC101_F2023_0920_higher_order_functions.ipynb)|||
+|20 Sept||[Colab Template](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Template_CMPSC101_F2023_0920_higher_order_functions.ipynb)||
 |22 Sept|[Source Code Survey Numerical Data](https://classroom.github.com/a/qMGUfpn4) </br> Due 2:30pm EDT </br> [Engineering Effort Primality Testing](https://classroom.github.com/a/VY2sjcpo) </br> Due 2:30pm EDT |||
