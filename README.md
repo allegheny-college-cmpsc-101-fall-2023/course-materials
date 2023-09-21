@@ -101,8 +101,8 @@ To order through the [virtual campus bookstore](https://bncvirtual.com/allegheny
 - **Week Two**: September 4 to September 8: [Python Foundations](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#python-foundations)
 - **Week Three**: September 11 to September 15: [Numerical Computation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#numerical-computation)
 - **Week Four**: September 18 to September 22: [Function Scope](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#function-scope)
-- **Week Five**: September 25 to September 29: Proactive Review
-- **Executable Examination One**: September 29 during the laboratory session
+- **Week Five**: September 25: Proactive Review
+- **Executable Examination One**: September 27 during the class session
     - Relevant Modules:
         - [Software Operation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#software-operation)
         - [Python Foundations](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#python-foundations)
