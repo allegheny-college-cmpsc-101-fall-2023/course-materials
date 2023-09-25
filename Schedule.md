@@ -43,6 +43,6 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|25 Sept| Chapters 1-4     |||
+|25 Sept| Chapters 1-4     |[Exam Review](https://classroom.github.com/a/iOGxYetH)||
 |27 Sept| Exam # 1 in class |||
 |29 Sept|[Square Roots](https://classroom.github.com/a/tFhha3pb) </br> Due 2:30pm EDT, 2023|||
