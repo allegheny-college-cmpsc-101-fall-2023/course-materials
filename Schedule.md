@@ -45,4 +45,15 @@
 |-------|------------------|-----------------------------|----------------------|
 |25 Sept| Chapters 1-4     |[Exam Review](https://classroom.github.com/a/fzZyjO0x)||
 |27 Sept| Exam # 1 in class |||
-|29 Sept|[Square Roots](https://classroom.github.com/a/tFhha3pb) </br> Due 2:30pm EDT, 2023|||
+|29 Sept|[Square Roots](https://classroom.github.com/a/tFhha3pb) </br> Due 2:30pm EDT, 2023|[Intro Tuple Template](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/structured_data_types_TUPLES_into_CMPSC101.ipynb)||
+
+### Completed notes
+- Intro Tuple (place holder) 
+
+# Week 6 - Structured Data Types
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|02 Oct| Chapter 5    |||
+|04 Oct||||
+|06 Oct||||
