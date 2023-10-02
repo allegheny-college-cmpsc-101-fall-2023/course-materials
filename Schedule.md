@@ -50,7 +50,7 @@
 |29 Sept|[Square Roots](https://classroom.github.com/a/tFhha3pb) </br> Due 2:30pm EDT, 2023|[Intro Tuple Template](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/structured_data_types_TUPLES_into_CMPSC101.ipynb)||
 
 ### Completed notes
-- Intro Tuple (place holder)
+- [Intro Structured Types](https://proactiveprogrammers.com/slides/data-abstraction/structured-types/)
 
 # Unit 2
 
