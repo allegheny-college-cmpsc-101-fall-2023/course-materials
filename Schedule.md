@@ -1,4 +1,6 @@
-# Week 2 - Python Foundations
+# Unit 1
+
+## Week 2 - Python Foundations
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
@@ -12,7 +14,7 @@
 - Proactive Programmers notes on [Python Foundations](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#python-foundations)
 
 
-# Week 3 - Numerical Computation
+## Week 3 - Numerical Computation
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
@@ -25,7 +27,7 @@
 - [Exhaustive & Binary Search for Square Roots](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/CMPSC101_F2023_0913_numerical_computation.ipynb)
 - Proactive Programmers notes on [Numerical Computation](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#numerical-computation)
 
-# Week 4 - Function Scope
+## Week 4 - Function Scope
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
@@ -39,7 +41,7 @@
 - [Lambda Functions](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/CMPSC101_F2023_0922_lambda_functions.ipynb)
 - Proactive Programmers notes on [Function Scope](https://proactiveprogrammers.com/data-abstraction/schedule-data-abstraction/#function-scope)
 
-# Week 5 - Review
+## Week 5 - Review
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
@@ -48,12 +50,25 @@
 |29 Sept|[Square Roots](https://classroom.github.com/a/tFhha3pb) </br> Due 2:30pm EDT, 2023|[Intro Tuple Template](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/structured_data_types_TUPLES_into_CMPSC101.ipynb)||
 
 ### Completed notes
-- Intro Tuple (place holder) 
+- Intro Tuple (place holder)
 
-# Week 6 - Structured Data Types
+# Unit 2
+
+## Week 6 - Structured Data Types
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|02 Oct| Chapter 5    |||
+|02 Oct| Chapter 5    |[(Im)mutable types](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/structured_data_types_(IM)MUTABLE_CMPSC101_Fall2023.ipynb) </br> [Grades Repo](https://classroom.github.com/a/FvplSTJl) |[Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 11 Oct, 2023|
 |04 Oct||||
 |06 Oct||||
+
+### Complete notes
+- (Im)mutable types (place holder)
+
+## Week 7
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|09 Oct - Fall break ||||
+|11 Oct|Chapter 6 </br> [Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 2023|||
+|13 Oct||||
