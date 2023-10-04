@@ -59,11 +59,12 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |02 Oct| Chapter 5    |[(Im)mutable types](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/structured_data_types_(IM)MUTABLE_CMPSC101_Fall2023.ipynb) </br> [Grades Repo](https://classroom.github.com/a/FvplSTJl) |[Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 11 Oct, 2023|
-|04 Oct||||
+|04 Oct||[Sets and Dictionaries](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/sets_and_dictionaries_CMPSC101_Fall2023.ipynb)||
 |06 Oct||||
 
 ### Complete notes
 - (Im)mutable types (place holder)
+- Sets and Dictionaries (place holder)
 
 ## Week 7
 
