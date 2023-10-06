@@ -195,7 +195,8 @@ These grading categories have the following definitions:
     &mdash; in a new way &mdash; their knowledge of the facts and techniques related to 
     data structures and rigorous Python programming.
 
--   **Engineering Efforts**: These assignments invite students to explore
+-   **Engineering Efforts**: Graded on a percentage basis. These assignments invite
+    sudents to explore
     different techniques for rigorously designing, implementing, evaluating, and
     documenting real-world Python programs. These assignments also encourage
     students to use tools like a terminal window and a modern
@@ -218,11 +219,28 @@ work will be accepted after the published assignment deadline.
 ### Assignment Evaluation
 
 Using a report that the instructor shares with you through your assignment's
-GitHub repository, you will privately receive a grade for and feedback on each
+GitHub repository, you will privately receive a grade for each
 assignment. Your grade will be a function of whether or not you completed
 correct work that fulfills the project's specification and submitted it by the
 deadline. For more details about the evaluation of course assignments, see this page 
-about [proactive learning](https://proactiveprogrammers.com/proactive-learning/introduction-proactive-learning/).
+about
+[proactive learning](https://proactiveprogrammers.com/proactive-learning/introduction-proactive-learning/).
+
+### Redoing Assignments
+
+You can choose to redo any 3 assignments from the course before the final exam
+and the instructor will completely swap out the old grade with the new one. Any
+type of assignment is allowed to be redone. For example you can choose to swap
+out all Engineering Efforts, all Programming Projects, or all Source Code Surveys,
+or any combination of them. For Engineering Efforts, the instructor will scrutinize
+closely for correct coding, writing, and formatting. The grading of Programming Projects
+and Source Code Surveys will continue to be :white_check_mark:  or :x:.
+
+You may take advantage of this any time during the course before the final exam. You will
+need to create an issue in the GitHub repos you choose to redo, tag the instructor, and say
+that you want to resubmit the assignment. The instructor will re-open the classroom manager
+so you can push updates. When you are satisfied with your submission, please tag the instructor
+again so they can look at the changes.
 
 ### Course Attendance
 
