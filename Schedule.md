@@ -33,7 +33,7 @@
 |-------|------------------|-----------------------------|----------------------|
 |18 Sept| Chapter 4        |[Colab Template](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/Template_CMPSC101_F2023_0918_function_scope.ipynb)||
 |20 Sept||[Colab Template](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/Template_CMPSC101_F2023_0920_higher_order_functions.ipynb)||
-|22 Sept|[Source Code Survey Numerical Data](https://classroom.github.com/a/qMGUfpn4) </br> Due 2:30pm EDT </br> [Engineering Effort Primality Testing](https://classroom.github.com/a/VY2sjcpo) </br> Due 2:30pm EDT ||[Square Roots](https://classroom.github.com/a/tFhha3pb) </br> Due 2:30pm EDT, 29 Sept, 2023|
+|22 Sept|[Source Code Survey Numerical Data](https://classroom.github.com/a/qMGUfpn4) </br> Due 2:30pm EDT </br> [Engineering Effort Primality Testing](https://classroom.github.com/a/VY2sjcpo) </br> Due 2:30pm EDT ||[Programming Project Square Roots](https://classroom.github.com/a/tFhha3pb) </br> Due 2:30pm EDT, 29 Sept, 2023|
 
 ### Completed notes
 - [Function Scope](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/CMPSC101_F2023_0918_function_scope.ipynb)
@@ -47,7 +47,7 @@
 |-------|------------------|-----------------------------|----------------------|
 |25 Sept| Chapters 1-4     |[Exam Review](https://classroom.github.com/a/fzZyjO0x)||
 |27 Sept| Exam # 1 in class |||
-|29 Sept|[Square Roots](https://classroom.github.com/a/tFhha3pb) </br> Due 2:30pm EDT, 2023|[Intro Tuple Template](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/structured_data_types_TUPLES_into_CMPSC101.ipynb)||
+|29 Sept|[Programming Project Square Roots](https://classroom.github.com/a/tFhha3pb) </br> Due 2:30pm EDT, 2023|[Intro Tuple Template](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/structured_data_types_TUPLES_into_CMPSC101.ipynb)||
 
 ### Completed notes
 - Proactive Programmers Slides on [Structured Types](https://proactiveprogrammers.com/slides/data-abstraction/structured-types/)
@@ -58,9 +58,9 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|02 Oct| Chapter 5    |[(Im)mutable types](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/structured_data_types_(IM)MUTABLE_CMPSC101_Fall2023.ipynb) </br> [Grades Repo](https://classroom.github.com/a/FvplSTJl) |[Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 11 Oct, 2023|
+|02 Oct| Chapter 5    |[(Im)mutable types](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/structured_data_types_(IM)MUTABLE_CMPSC101_Fall2023.ipynb) </br> [Grades Repo](https://classroom.github.com/a/FvplSTJl) |[Source Code Survey Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 11 Oct, 2023|
 |04 Oct||[Sets and Dictionaries](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/sets_and_dictionaries_CMPSC101_Fall2023.ipynb)||
-|06 Oct|||[Intersection Algorithms EE](https://classroom.github.com/a/F9_Xjw35) </br> Due 2:30pm EDT, 13 Oct, 2023|
+|06 Oct|||[Engineering Effort Intersection Algorithms](https://classroom.github.com/a/F9_Xjw35) </br> Due 2:30pm EDT, 13 Oct, 2023|
 
 ### Complete notes
 - [(Im)mutable types](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/structured_data_types_(IM)MUTABLE_CMPSC101_Fall2023.ipynb)
@@ -71,5 +71,5 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |09 Oct - Fall break ||||
-|11 Oct|Chapter 6 </br> [Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 2023|||
-|13 Oct|[Intersection Algorithms EE](https://classroom.github.com/a/F9_Xjw35) </br> Due 2:30pm EDT, 2023|||
+|11 Oct|Chapter 6 </br> [Source Code Survey Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 2023|||
+|13 Oct|[Engineering Effort Intersection Algorithms](https://classroom.github.com/a/F9_Xjw35) </br> Due 2:30pm EDT, 2023|||
