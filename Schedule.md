@@ -50,7 +50,7 @@
 |29 Sept|[Square Roots](https://classroom.github.com/a/tFhha3pb) </br> Due 2:30pm EDT, 2023|[Intro Tuple Template](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/structured_data_types_TUPLES_into_CMPSC101.ipynb)||
 
 ### Completed notes
-- [Intro Structured Types](https://proactiveprogrammers.com/slides/data-abstraction/structured-types/)
+- Proactive Programmers Slides on [Structured Types](https://proactiveprogrammers.com/slides/data-abstraction/structured-types/)
 
 # Unit 2
 
@@ -60,11 +60,11 @@
 |-------|------------------|-----------------------------|----------------------|
 |02 Oct| Chapter 5    |[(Im)mutable types](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/structured_data_types_(IM)MUTABLE_CMPSC101_Fall2023.ipynb) </br> [Grades Repo](https://classroom.github.com/a/FvplSTJl) |[Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 11 Oct, 2023|
 |04 Oct||[Sets and Dictionaries](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/sets_and_dictionaries_CMPSC101_Fall2023.ipynb)||
-|06 Oct||||
+|06 Oct|||[Intersection Algorithms EE](https://classroom.github.com/a/F9_Xjw35) </br> Due 2:30pm EDT, 13 Oct, 2023|
 
 ### Complete notes
-- (Im)mutable types (place holder)
-- Sets and Dictionaries (place holder)
+- [(Im)mutable types](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/structured_data_types_(IM)MUTABLE_CMPSC101_Fall2023.ipynb)
+- [Sets and Dictionaries](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/sets_and_dictionaries_CMPSC101_Fall2023.ipynb)
 
 ## Week 7
 
@@ -72,4 +72,4 @@
 |-------|------------------|-----------------------------|----------------------|
 |09 Oct - Fall break ||||
 |11 Oct|Chapter 6 </br> [Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 2023|||
-|13 Oct||||
+|13 Oct|[Intersection Algorithms EE](https://classroom.github.com/a/F9_Xjw35) </br> Due 2:30pm EDT, 2023|||
