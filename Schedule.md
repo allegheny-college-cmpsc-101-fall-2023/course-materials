@@ -71,8 +71,9 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |09 Oct - Fall break ||||
-|11 Oct|Chapter 6 + 7 </br> [Source Code Survey Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 2023| [Warmup 1](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/md/w-01.md) </br> [Warmup 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/md/w-02.md) </br> [Recursion](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/recursion_CMPSC101_Fall2023.ipynb)||
-|13 Oct|[Engineering Effort Intersection Algorithms](https://classroom.github.com/a/F9_Xjw35) </br> Due 2:30pm EDT, 2023|||
+|11 Oct|Chapter 6 + 7 </br> [Source Code Survey Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 2023| [Warmup 1](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w-01.md) </br> [Warmup 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w-02.md) </br> [Recursion](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/recursion_CMPSC101_Fall2023.ipynb)||
+|13 Oct|[Engineering Effort Intersection Algorithms](https://classroom.github.com/a/F9_Xjw35) </br> Due 2:30pm EDT, 2023|[Warmup 3](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w-03.ipynb)||
 
 ### Completed notes
-- [recursion](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/Notes_recursion_CMPSC101_Fall2023.ipynb)
+- [Recursion](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/Notes_recursion_CMPSC101_Fall2023.ipynb)
+- Proactive Programmers Slides on [Recursion](https://proactiveprogrammers.com/slides/data-abstraction/program-components/)
