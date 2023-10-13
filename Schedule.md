@@ -84,4 +84,4 @@
 |-------|------------------|-----------------------------|----------------------|
 |16 Oct|chapters 8 + 9|||
 |18 Oct||||
-|20 Oct|[Engineering Effort Fibonacci Algorithms](https://classroom.github.com/a/qYpcJjtv) </br> 2:30pm EDT, 20 October, 2023|||
+|20 Oct|[Engineering Effort Fibonacci Algorithms](https://classroom.github.com/a/qYpcJjtv) </br> Due 2:30pm EDT, 2023|||
