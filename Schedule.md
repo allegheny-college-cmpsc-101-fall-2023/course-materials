@@ -66,7 +66,7 @@
 - [(Im)mutable types](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/structured_data_types_(IM)MUTABLE_CMPSC101_Fall2023.ipynb)
 - [Sets and Dictionaries](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/sets_and_dictionaries_CMPSC101_Fall2023.ipynb)
 
-## Week 7
+## Week 7 - Recursion
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
@@ -78,7 +78,7 @@
 - [Recursion](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/Notes_recursion_CMPSC101_Fall2023.ipynb)
 - Proactive Programmers Slides on [Recursion](https://proactiveprogrammers.com/slides/data-abstraction/program-components/)
 
-## Week 8
+## Week 8 - Debugging
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
