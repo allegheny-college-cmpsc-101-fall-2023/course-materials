@@ -78,7 +78,7 @@
 - [Recursion](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/Notes_recursion_CMPSC101_Fall2023.ipynb)
 - Proactive Programmers Slides on [Recursion](https://proactiveprogrammers.com/slides/data-abstraction/program-components/)
 
-## Week 8 - Debugging
+## Week 8 - Debugging and Exceptions
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
