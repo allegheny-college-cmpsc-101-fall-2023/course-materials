@@ -83,21 +83,21 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |16 Oct|chapters 8 + 9|||
-|18 Oct||||
+|18 Oct|||[Source Code Survey Debugging Functions] </br> Due 11:59pm EDT, 23 October, 2023|
 |20 Oct|[Engineering Effort Fibonacci Algorithms](https://classroom.github.com/a/qYpcJjtv) </br> Due 2:30pm EDT, 2023||[Engineering Effort Palindrome Checking] </br> Due 2:30pm EDT, 27 October, 2023 |
 
 ## Week 9 - Object-Oriented Programming
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|23 Oct|chapter 10|||
-|25 Oct|||[Source Code Survey Debugging Functions] </br> Due 11:59pm EDT, 30 October, 2023|
+|23 Oct|chapter 10 </br> [Source Code Survey Debugging Functions] </br> Due 11:59pm||
+|25 Oct||||
 |27 Oct|[Engineering Effort Palindrome Checking] </br> Due 2:30pm EDT, 2023||[Engineering Effort Object Processing] </br> Due 2:30pm EDT, 03 November, 2023|
 
 ## Week 10 - Review
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|30 Oct|chapters 5-10 </br> [Source Code Survey Debugging Functions] </br> Due 11:59pm|||
+|30 Oct|chapters 5-10 |||
 |01 Nov||||
 |03 Nov|[Engineering Effort Object Processing] </br> Due 2:30pm EDT, 2023||Exam 2 in Lab|
