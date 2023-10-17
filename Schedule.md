@@ -71,7 +71,7 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |09 Oct - Fall break ||||
-|11 Oct|Chapters 6 + 7 </br> [Source Code Survey Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 2023| [Warmup 1](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w-01.md) </br> [Warmup 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w-02.md) </br> [Recursion](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/recursion_CMPSC101_Fall2023.ipynb)||
+|11 Oct|Chapters 6 + 7 </br> [Source Code Survey Structured Types](https://classroom.github.com/a/AEuTTqLw) </br>  Due 11:59pm EDT, 2023| [Warmup 1](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w_01.md) </br> [Warmup 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w_02.md) </br> [Recursion](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/recursion_CMPSC101_Fall2023.ipynb)||
 |13 Oct|[Engineering Effort Intersection Algorithms](https://classroom.github.com/a/F9_Xjw35) </br> Due 2:30pm EDT, 2023|[Warmup 3](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w_03.ipynb)|[Engineering Effort Fibonacci Algorithms](https://classroom.github.com/a/qYpcJjtv) </br> Due 2:30pm EDT, 20 October, 2023 |
 
 ### Completed notes
@@ -82,17 +82,17 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|16 Oct|chapters 8 + 9|||
-|18 Oct|||[Source Code Survey Debugging Functions] </br> Due 11:59pm EDT, 23 October, 2023|
-|20 Oct|[Engineering Effort Fibonacci Algorithms](https://classroom.github.com/a/qYpcJjtv) </br> Due 2:30pm EDT, 2023||[Engineering Effort Palindrome Checking] </br> Due 2:30pm EDT, 27 October, 2023 |
+|16 Oct|chapters 8 + 9|[Warmup 4](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w_04.ipynb)||
+|18 Oct||[Warmup 5](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w_05.py)|[Source Code Survey Debugging Functions](https://classroom.github.com/a/J6h0_MxN) </br> Due 11:59pm EDT, 23 October, 2023|
+|20 Oct|[Engineering Effort Fibonacci Algorithms](https://classroom.github.com/a/qYpcJjtv) </br> Due 2:30pm EDT, 2023||[Engineering Effort Palindrome Checking]() </br> Due 2:30pm EDT, 27 October, 2023 |
 
 ## Week 9 - Object-Oriented Programming
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|23 Oct|chapter 10 </br> [Source Code Survey Debugging Functions] </br> Due 11:59pm||
+|23 Oct|chapter 10 </br> [Source Code Survey Debugging Functions](https://classroom.github.com/a/J6h0_MxN) </br> Due 11:59pm||
 |25 Oct||||
-|27 Oct|[Engineering Effort Palindrome Checking] </br> Due 2:30pm EDT, 2023||[Engineering Effort Object Processing] </br> Due 2:30pm EDT, 03 November, 2023|
+|27 Oct|[Engineering Effort Palindrome Checking]() </br> Due 2:30pm EDT, 2023||[Engineering Effort Object Processing]() </br> Due 2:30pm EDT, 03 November, 2023|
 
 ## Week 10 - Review
 
@@ -100,4 +100,4 @@
 |-------|------------------|-----------------------------|----------------------|
 |30 Oct|chapters 5-10 |||
 |01 Nov||||
-|03 Nov|[Engineering Effort Object Processing] </br> Due 2:30pm EDT, 2023||Exam 2 in Lab|
+|03 Nov|[Engineering Effort Object Processing]() </br> Due 2:30pm EDT, 2023||Exam 2 in Lab|
