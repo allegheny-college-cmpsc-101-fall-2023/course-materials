@@ -89,15 +89,17 @@
 ### Completed notes
 - Proactive Programmers Slides on [Debugging](https://proactiveprogrammers.com/slides/data-abstraction/software-testing/)
 - Proactive Programmers Slides on [Exception Handling](https://proactiveprogrammers.com/slides/data-abstraction/object-oriented-programming/)
-- [Testing, Debugging, Exception Handling](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/testing_debugging_raising_exceptions_CMPSC101_Fall2023.ipynb)
 
 ## Week 9 - Object-Oriented Programming
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|23 Oct|chapter 10 </br> [Source Code Survey Debugging Functions](https://classroom.github.com/a/J6h0_MxN) </br> Due 11:59pm||
+|23 Oct|chapter 10 </br> [Source Code Survey Debugging Functions](https://classroom.github.com/a/J6h0_MxN) </br> Due 11:59pm|[Warmup 6](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w_06.py) </br> [Classes and OOP](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/classes_oop_CMPSC101_Fall2023.ipynb)|
 |25 Oct||||
 |27 Oct|[Engineering Effort Palindrome Checking](https://classroom.github.com/a/6F6LsB-h) </br> Due 2:30pm EDT, 2023||[Engineering Effort Object Processing]() </br> Due 2:30pm EDT, 03 November, 2023|
+
+### Completed notes
+- Proactive Programmers Slides on [OOP](https://proactiveprogrammers.com/slides/data-abstraction/object-oriented-programming/)
 
 ## Week 10 - Review
 
