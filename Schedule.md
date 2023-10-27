@@ -96,7 +96,7 @@
 |-------|------------------|-----------------------------|----------------------|
 |23 Oct|chapter 10 </br> [Source Code Survey Debugging Functions](https://classroom.github.com/a/J6h0_MxN) </br> Due 11:59pm|[Warmup 6](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/w_06.py) </br> [Classes and OOP](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/classes_oop_CMPSC101_Fall2023.ipynb)|
 |25 Oct||||
-|27 Oct|[Engineering Effort Palindrome Checking](https://classroom.github.com/a/6F6LsB-h) </br> Due 2:30pm EDT, 2023||[Engineering Effort Object Processing]() </br> Due 2:30pm EDT, 03 November, 2023|
+|27 Oct|[Engineering Effort Palindrome Checking](https://classroom.github.com/a/6F6LsB-h) </br> Due 2:30pm EDT, 2023||[Engineering Effort Object Processing](https://docs.google.com/forms/d/e/1FAIpQLSeBbohjO0YZoAGMD_sQsh-4qOGfmgBpUKGswFW7BGNyhkS-vA/viewform?usp=sf_link) </br> Due 2:30pm EDT, 03 November, 2023|
 
 ### Completed notes
 - Proactive Programmers Slides on [OOP](https://proactiveprogrammers.com/slides/data-abstraction/object-oriented-programming/)
@@ -107,4 +107,4 @@
 |-------|------------------|-----------------------------|----------------------|
 |30 Oct|chapters 5-10 |||
 |01 Nov||||
-|03 Nov|[Engineering Effort Object Processing]() </br> Due 2:30pm EDT, 2023||Exam 2 in Lab|
+|03 Nov|[Engineering Effort Object Processing](https://docs.google.com/forms/d/e/1FAIpQLSeBbohjO0YZoAGMD_sQsh-4qOGfmgBpUKGswFW7BGNyhkS-vA/viewform?usp=sf_link) </br> Due 2:30pm EDT, 2023||Exam 2 in Lab|
