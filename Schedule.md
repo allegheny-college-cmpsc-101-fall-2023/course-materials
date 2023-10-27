@@ -100,6 +100,7 @@
 
 ### Completed notes
 - Proactive Programmers Slides on [OOP](https://proactiveprogrammers.com/slides/data-abstraction/object-oriented-programming/)
+- [Classes and OOP](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/classes_oop_CMPSC101_Fall2023.ipynb)
 
 ## Week 10 - Review
 
@@ -108,3 +109,7 @@
 |30 Oct|chapters 5-10 |||
 |01 Nov||||
 |03 Nov|[Engineering Effort Object Processing](https://docs.google.com/forms/d/e/1FAIpQLSeBbohjO0YZoAGMD_sQsh-4qOGfmgBpUKGswFW7BGNyhkS-vA/viewform?usp=sf_link) </br> Due 2:30pm EDT, 2023||Exam 2 in Lab|
+
+### Completed Notes
+- [List of strings - Aliasing](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/List_of_strings.ipynb)
+- [List of lists - Aliasing](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/List_of_lists.ipynb)
