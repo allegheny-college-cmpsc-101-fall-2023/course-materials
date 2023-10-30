@@ -111,5 +111,5 @@
 |03 Nov|[Engineering Effort Object Processing](https://docs.google.com/forms/d/e/1FAIpQLSeBbohjO0YZoAGMD_sQsh-4qOGfmgBpUKGswFW7BGNyhkS-vA/viewform?usp=sf_link) </br> Due 2:30pm EDT, 2023||Exam 2 in Lab|
 
 ### Completed Notes
-- [List of strings - Aliasing](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/List_of_strings.ipynb)
-- [List of lists - Aliasing](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/List_of_lists.ipynb)
+- [List of strings - Aliasing](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/List_of_strings.ipynb)
+- [List of lists - Aliasing](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/List_of_lists.ipynb)
