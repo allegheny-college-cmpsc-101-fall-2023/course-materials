@@ -113,3 +113,13 @@
 ### Completed Notes
 - [List of strings - Aliasing](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/List_of_strings.ipynb)
 - [List of lists - Aliasing](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/List_of_lists.ipynb)
+
+# Unit 3
+
+## Week 11 - Algorithmic Complexity
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|06 Nov|chapter 11 |||
+|08 Nov||[Complexity Intro](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_F2023_complexity.ipynb)||
+|10 Nov||||
