@@ -122,4 +122,7 @@
 |-------|------------------|-----------------------------|----------------------|
 |06 Nov|chapter 11 |||
 |08 Nov||[Complexity Intro](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_F2023_complexity.ipynb)||
-|10 Nov||[Copmlexity Part 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_F2023_complexity_part2.ipynb)||
+|10 Nov||[Complexity Part 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_F2023_complexity_part2.ipynb)|[Source Code Survey Hidden Complexity]()|
+
+### Completed Notes
+- [Complexity Part 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/CMPSC101_F2023_complexity_part2.ipynb)
