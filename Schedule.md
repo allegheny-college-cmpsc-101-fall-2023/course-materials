@@ -122,7 +122,24 @@
 |-------|------------------|-----------------------------|----------------------|
 |06 Nov|chapter 11 |||
 |08 Nov||[Complexity Intro](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_F2023_complexity.ipynb)||
-|10 Nov||[Complexity Part 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_F2023_complexity_part2.ipynb)|[Source Code Survey Container Cloning](https://classroom.github.com/a/FfH3DdS8)|
+|10 Nov||[Complexity Part 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_F2023_complexity_part2.ipynb)|[Source Code Survey Container Cloning](https://classroom.github.com/a/FfH3DdS8) </br> Due 11:59pm EST, 13 November, 2023|
 
 ### Completed Notes
 - [Complexity Part 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/CMPSC101_F2023_complexity_part2.ipynb)
+
+## Week 12 - Algorithmic Complexity of Searching and Sorting
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|13 Nov|chapter 12 </br> [Source Code Survey Container Cloning](https://classroom.github.com/a/FfH3DdS8) </br> Due 11:59pm EST, 2023|[Searching and Sorting](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/)|[Engineering Effort Searching and Sorting]() </br> due Sunday Nov 19th at 11:59pm|
+|15 Nov||||
+|17 Nov||||
+||[Engineering Effort Searching and Sorting]() </br> due Sunday Nov 19th at 11:59pm |||
+
+## Week 13 - Algorithmic Complexity of Searching and Sorting
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|20 Nov||||
+|22 Nov - Thanksgiving Break||||
+|24 Nov - Thanksgiving Break||||
