@@ -131,7 +131,7 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|13 Nov|chapter 12 </br> [Source Code Survey Container Cloning](https://classroom.github.com/a/FfH3DdS8) </br> Due 11:59pm EST, 2023|[Searching and Sorting](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_F2023_search_sorting.ipynb)||
+|13 Nov|chapter 12 </br> [Source Code Survey Container Cloning](https://classroom.github.com/a/FfH3DdS8) </br> Due 11:59pm EST, 2023|[Searching and Sorting](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/Template_CMPSC101_F2023_searching_sorting.ipynb)||
 |15 Nov||||
 |17 Nov|||[Engineering Effort Searching and Sorting]() </br> due Monday Nov 27th at 11:59pm EST </br> [Programming Project Number Comparison]() </br> due Monday Nov 27th at 11:59pm EST|
 
