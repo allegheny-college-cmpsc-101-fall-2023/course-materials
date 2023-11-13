@@ -127,19 +127,48 @@
 ### Completed Notes
 - [Complexity Part 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Filled/CMPSC101_F2023_complexity_part2.ipynb)
 
-## Week 12 - Algorithmic Complexity of Searching and Sorting
+## Week 12 - Algorithmic Complexity with Searching and Sorting
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|13 Nov|chapter 12 </br> [Source Code Survey Container Cloning](https://classroom.github.com/a/FfH3DdS8) </br> Due 11:59pm EST, 2023|[Searching and Sorting](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/)|[Engineering Effort Searching and Sorting]() </br> due Sunday Nov 19th at 11:59pm|
+|13 Nov|chapter 12 </br> [Source Code Survey Container Cloning](https://classroom.github.com/a/FfH3DdS8) </br> Due 11:59pm EST, 2023|[Searching and Sorting](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_F2023_search_sorting.ipynb)||
 |15 Nov||||
-|17 Nov||||
-||[Engineering Effort Searching and Sorting]() </br> due Sunday Nov 19th at 11:59pm |||
+|17 Nov|||[Engineering Effort Searching and Sorting]() </br> due Monday Nov 27th at 11:59pm EST </br> [Programming Project Number Comparison]() </br> due Monday Nov 27th at 11:59pm EST|
 
-## Week 13 - Algorithmic Complexity of Searching and Sorting
+## Week 13 - Data Structures
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |20 Nov||||
 |22 Nov - Thanksgiving Break||||
 |24 Nov - Thanksgiving Break||||
+
+## Week 14 - Data Structures
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|27 Nov|Chapter 14 </br> [Engineering Effort Searching and Sorting]() </br> due 11:59pm EST </br> [Programming Project Number Comparison]() </br> due 11:59pm EST||[Engineering Effort Containment Checking]() </br> due Monday Dec 4th at 11:59pm EST |
+|29 Nov||||
+|01 Dec||||
+
+## Week 15 - Optimization
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|04 Dec|Chapter 15 </br> [Engineering Effort Containment Checking]() </br> due at 11:59pm EST||[Programming Project Matrix Processing]() </br> due Monday Dec 11th at 11:59pm EST </br> [Source Code Survey Knapsack Solvers]() </br> due Monday Dec 11th at 11:59pm EST|
+|06 Dec||||
+|08 Dec||||
+
+## Week 16 - Review
+
+| Date  | Due              | Links to in-class materials | Links to new assignments |
+|-------|------------------|-----------------------------|----------------------|
+|11 Dec|Chapters 1-12, 14-15 </br> [Programming Project Matrix Processing]() </br> due at 11:59pm EST </br> [Source Code Survey Knapsack Solvers]() </br> due at 11:59pm EST|||
+|13 Dec - Study Day||||
+|15 Dec - Finals Period Ongoing||||
+
+## Final Examination
+
+| Date  | Due              |
+|-------|------------------|
+|18 Dec|Final Exam ([Code G](https://sites.allegheny.edu/registrar/fall-2023-final-exam-schedule/)): 09:00 AM|||
