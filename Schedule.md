@@ -132,7 +132,7 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |13 Nov|chapter 12 </br> [Source Code Survey Container Cloning](https://classroom.github.com/a/FfH3DdS8) </br> Due 11:59pm EST, 2023|[Searching and Sorting](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/Template_CMPSC101_F2023_searching_sorting.ipynb)||
-|15 Nov|||[Engineering Effort Sorting Algorithms](https://classroom.github.com/a/kUqQ21eC) </br> due Monday Nov 27th at 11:59pm EST|
+|15 Nov||[Sorting Part 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/Template_CMPCS101_F2023_sorting2.ipynb)|[Engineering Effort Sorting Algorithms](https://classroom.github.com/a/kUqQ21eC) </br> due Monday Nov 27th at 11:59pm EST|
 |17 Nov|||[Programming Project Number Comparison]() </br> Hard Deadline Monday Nov 27th at 11:59pm EST|
 
 ## Week 13 - Data Structures
