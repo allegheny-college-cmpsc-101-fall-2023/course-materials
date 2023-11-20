@@ -142,7 +142,7 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|20 Nov||||
+|20 Nov|Chapter 12.3|[Bespoke Dictionary](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/dictionaries_CMPSC101_Fall2023.ipynb)||
 |22 Nov - Thanksgiving Break||||
 |24 Nov - Thanksgiving Break||||
 
