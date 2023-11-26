@@ -150,8 +150,8 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|27 Nov|Chapter 14 </br> [Engineering Effort Sorting Algorithms](https://classroom.github.com/a/kUqQ21eC) </br> Hard Deadline 11:59pm EST </br> [Programming Project Number Comparison](https://classroom.github.com/a/Mnt27BU7) </br> Hard Deadline 11:59pm EST||[Engineering Effort Containment Checking](https://classroom.github.com/a/FbzhyfKf) </br> due Monday Dec 4th at 11:59pm EST |
-|29 Nov||||
+|27 Nov|Chapter 14 </br> [Engineering Effort Sorting Algorithms](https://classroom.github.com/a/kUqQ21eC) </br> Hard Deadline 11:59pm EST </br> [Programming Project Number Comparison](https://classroom.github.com/a/Mnt27BU7) </br> Hard Deadline 11:59pm EST|[Bespoke Dictionary](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/dictionaries_CMPSC101_Fall2023.ipynb)|[Engineering Effort Containment Checking](https://classroom.github.com/a/FbzhyfKf) </br> due Monday Dec 4th at 11:59pm EST |
+|29 Nov||Greedy Algorithms||
 |01 Dec||||
 
 ## Week 15 - Optimization
