@@ -150,7 +150,7 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|27 Nov|Chapter 14 </br> [Engineering Effort Sorting Algorithms](https://classroom.github.com/a/kUqQ21eC) </br> Hard Deadline 11:59pm EST </br> [Programming Project Number Comparison](https://classroom.github.com/a/Mnt27BU7) </br> Hard Deadline 11:59pm EST||[Engineering Effort Containment Checking]() </br> due Monday Dec 4th at 11:59pm EST |
+|27 Nov|Chapter 14 </br> [Engineering Effort Sorting Algorithms](https://classroom.github.com/a/kUqQ21eC) </br> Hard Deadline 11:59pm EST </br> [Programming Project Number Comparison](https://classroom.github.com/a/Mnt27BU7) </br> Hard Deadline 11:59pm EST||[Engineering Effort Containment Checking](https://classroom.github.com/classrooms/142356003-allegheny-college-cmpsc-101-fall-2023/assignments/containment-checking) </br> due Monday Dec 4th at 11:59pm EST |
 |29 Nov||||
 |01 Dec||||
 
@@ -158,7 +158,7 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|04 Dec|Chapter 15 </br> [Engineering Effort Containment Checking]() </br> due at 11:59pm EST||[Programming Project Matrix Processing]() </br> due Monday Dec 11th at 11:59pm EST </br> [Source Code Survey Knapsack Solvers]() </br> due Monday Dec 11th at 11:59pm EST|
+|04 Dec|Chapter 15 </br> [Engineering Effort Containment Checking](https://classroom.github.com/classrooms/142356003-allegheny-college-cmpsc-101-fall-2023/assignments/containment-checking) </br> due at 11:59pm EST||[Programming Project Matrix Processing]() </br> due Monday Dec 11th at 11:59pm EST </br> [Source Code Survey Knapsack Solvers]() </br> due Monday Dec 11th at 11:59pm EST|
 |06 Dec||||
 |08 Dec||||
 
