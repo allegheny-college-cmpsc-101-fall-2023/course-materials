@@ -132,7 +132,7 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |13 Nov|chapter 12 </br> [Source Code Survey Container Cloning](https://classroom.github.com/a/FfH3DdS8) </br> Due 11:59pm EST, 2023|[Searching and Sorting](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/Template_CMPSC101_F2023_searching_sorting.ipynb)||
-|15 Nov||[Sorting Part 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/Template_CMPCS101_F2023_sorting2.ipynb)|[Engineering Effort Sorting Algorithms](https://classroom.github.com/a/kUqQ21eC) </br> due Monday Nov 27th at 11:59pm EST|
+|15 Nov||[Sorting Part 2](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/Template_CMPCS101_F2023_sorting2.ipynb)|[Engineering Effort Sorting Algorithms](https://classroom.github.com/a/kUqQ21eC) </br> Hard Deadline Monday Nov 27th at 11:59pm EST|
 |17 Nov|||[Programming Project Number Comparison](https://classroom.github.com/a/Mnt27BU7) </br> Hard Deadline Monday Nov 27th at 11:59pm EST|
 
 ### Completed Notes
@@ -150,23 +150,23 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|27 Nov|Chapter 14 </br> [Engineering Effort Sorting Algorithms](https://classroom.github.com/a/kUqQ21eC) </br> Hard Deadline 11:59pm EST </br> [Programming Project Number Comparison](https://classroom.github.com/a/Mnt27BU7) </br> Hard Deadline 11:59pm EST|[Bespoke Dictionary](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/dictionaries_CMPSC101_Fall2023.ipynb)|[Engineering Effort Containment Checking](https://classroom.github.com/a/FbzhyfKf) </br> due Monday Dec 4th at 11:59pm EST |
+|27 Nov|Chapter 14 </br> [Engineering Effort Sorting Algorithms](https://classroom.github.com/a/kUqQ21eC) </br> Hard Deadline 11:59pm EST </br> [Programming Project Number Comparison](https://classroom.github.com/a/Mnt27BU7) </br> Hard Deadline 11:59pm EST|[Bespoke Dictionary](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/dictionaries_CMPSC101_Fall2023.ipynb)|[Engineering Effort Containment Checking](https://classroom.github.com/a/FbzhyfKf) </br> Hard Deadline Monday Dec 4th at 11:59pm EST |
 |29 Nov||[Optimization Intro](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_Fall2023_optimization01.ipynb)||
-|01 Dec||[warmup](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/warmup_parsing.ipynb) </br> [Greedy and Exhaustive Code](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_Fall2023_optimization02.ipynb)|[Source Code Survey Knapsack Solvers](https://classroom.github.com/a/oZHc8QaI) </br> due Monday Dec 11th at 11:59pm EST|
+|01 Dec||[warmup](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Warmups/questions/warmup_parsing.ipynb)|[Programming Project Matrix Processing](https://classroom.github.com/a/m6cq0fG7) </br> Hard Deadline Monday Dec 11th at 11:59pm EST|
 
 ## Week 15 - Optimization
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|04 Dec|Chapter 15 </br> [Engineering Effort Containment Checking](https://classroom.github.com/a/FbzhyfKf) </br> due at 11:59pm EST||[Programming Project Matrix Processing]() </br> due Monday Dec 11th at 11:59pm EST|
+|04 Dec|Chapter 15 </br> [Engineering Effort Containment Checking](https://classroom.github.com/a/FbzhyfKf) </br> Hard Deadline 11:59pm EST|[Greedy and Exhaustive Code](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_Fall2023_optimization02.ipynb)|[Source Code Survey Knapsack Solvers](https://classroom.github.com/a/oZHc8QaI) </br> Hard Deadline Monday Dec 11th at 11:59pm EST|
 |06 Dec||||
-|08 Dec||||
+|08 Dec||CIS Teaching and Learning Assessment||
 
 ## Week 16 - Review
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|11 Dec|Chapters 1-12, 14-15 </br> [Programming Project Matrix Processing]() </br> due at 11:59pm EST </br> [Source Code Survey Knapsack Solvers]() </br> due at 11:59pm EST|||
+|11 Dec|Chapters 1-12, 14-15 </br> [Programming Project Matrix Processing](https://classroom.github.com/a/m6cq0fG7) </br> Hard Deadline 11:59pm EST </br> [Source Code Survey Knapsack Solvers](https://classroom.github.com/a/oZHc8QaI) </br> Hard Deadline 11:59pm EST|||
 |13 Dec - Study Day||||
 |15 Dec - Finals Period Ongoing||||
 
