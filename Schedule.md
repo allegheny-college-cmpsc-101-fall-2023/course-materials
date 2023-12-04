@@ -159,8 +159,8 @@
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
 |04 Dec|Chapter 15 </br> [Engineering Effort Containment Checking](https://classroom.github.com/a/FbzhyfKf) </br> Hard Deadline 11:59pm EST|[Greedy and Exhaustive Code](https://github.com/allegheny-college-cmpsc-101-fall-2023/course-materials/blob/main/Notes/Templates/CMPSC101_Fall2023_optimization02.ipynb)|[Source Code Survey Knapsack Solvers](https://classroom.github.com/a/oZHc8QaI) </br> Hard Deadline Monday Dec 11th at 11:59pm EST|
-|06 Dec||||
-|08 Dec||CIS Teaching and Learning Assessment||
+|06 Dec||CIS Teaching and Learning Assessment||
+|08 Dec||||
 
 ## Week 16 - Review
 
