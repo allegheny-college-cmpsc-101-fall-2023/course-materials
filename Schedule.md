@@ -166,7 +166,7 @@
 
 | Date  | Due              | Links to in-class materials | Links to new assignments |
 |-------|------------------|-----------------------------|----------------------|
-|11 Dec|Chapters 1-12, 14-15 </br> [Programming Project Matrix Processing](https://classroom.github.com/a/m6cq0fG7) </br> Hard Deadline 11:59pm EST </br> [Source Code Survey Knapsack Solvers](https://classroom.github.com/a/oZHc8QaI) </br> Hard Deadline 11:59pm EST|||
+|11 Dec|Chapters 1-12, 14-15 </br> [Programming Project Matrix Processing](https://classroom.github.com/a/m6cq0fG7) </br> Hard Deadline 11:59pm EST </br> [Source Code Survey Knapsack Solvers](https://classroom.github.com/a/oZHc8QaI) </br> Hard Deadline 11:59pm EST|[Assessment Survey](https://forms.gle/gCuuUxL8JZd21gMC8)||
 |13 Dec - Study Day||||
 |15 Dec - Finals Period Ongoing||||
 
